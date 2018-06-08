@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/brainhole-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/brainhole-parent/brainhole-algorithm/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectDictionaryState">
+    <dictionary name="zhangwanli" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="jdk-x" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="/usr/local/Cellar/sbt/1.0.2/libexec/bin/sbt-launch.jar" />
+  </component>
+</project>
